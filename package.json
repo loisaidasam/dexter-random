@@ -1,9 +1,9 @@
 {
     "name": "random",
     "version": "0.0.1",
-    "description": "",
+    "description": "Random number generator",
     "main": "index.js",
-    "author": "Someone Somewhere",
+    "author": "LoisaidaSam",
     "license": "ISC",
     "private": true,
     "dependencies": {

@@ -5,24 +5,25 @@
     //Required. Inputs the module expects.
     "inputs": [
         //e.g.
-        /*
         {
-            "id": "from",
-            "title":"From",
-            "type":"string"
+            "id": "low",
+            "title":"Low value",
+            "type":"integer"
+        },
+        {
+            "id": "high",
+            "title":"High value",
+            "type":"integer"
         }
-        */
     ],
     //Required. Outputs the module emits.
     "outputs": [
       //e.g.
-      /*
         {
-            "id": "from",
-            "title":"From",
-            "type":"array"
+            "id": "result",
+            "title":"Result",
+            "type":"integer"
         }
-      */
     ],
     "title": "random" /* Required.A display name for the module */
 }
