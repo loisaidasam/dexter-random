@@ -23,7 +23,12 @@
             "id": "result",
             "title":"Result",
             "type":"integer"
-        }
+        },
+        // {
+        //     "id": "foo",
+        //     "title": "Foo",
+        //     "type":"string"
+        // }
     ],
     "title": "random" /* Required.A display name for the module */
 }
